@@ -1,0 +1,16 @@
+.watch_description {
+    width: 10;
+}
+header{
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-size: 500%;
+}
+h3{
+    text-align: center;
+    font-family: 'Unica One', cursive;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
